@@ -1,6 +1,5 @@
 scikit-learn
 pandas 
-python==3.11
 matplotlib
 seaborn
 joblib
